@@ -1,0 +1,17 @@
+{
+    "name": "apple/simple-book-management-api",
+    "autoload": {
+        "psr-4": {
+            "Apple\\SimpleBookManagementApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "frankremmy",
+            "email": "princeugo.remix@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
