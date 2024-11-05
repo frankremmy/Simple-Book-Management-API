@@ -2,6 +2,19 @@
 
 This is a simple CRUD API for managing a collection of books. It allows users to create, read, update, and delete book entries through HTTP requests.
 
+## Table of Contents
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Starting the Server](#starting-the-server)
+- [API Endpoints](#api-endpoints)
+    - [Create a Book](#create-a-book)
+    - [Get All Books](#get-all-books)
+    - [Get a Book by ID](#get-a-book-by-id)
+    - [Update a Book](#update-a-book)
+    - [Delete a Book](#delete-a-book)
+- [Error Handling](#error-handling)
+- [Notes](#notes)
+
 
 ## Installation
 
